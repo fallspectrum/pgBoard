@@ -7,7 +7,7 @@ define("DIR","/path/to/board/www/");
 define("SPHINX_HOST","localhost");
 define("SPHINX_PORT",3312);
 
-define("REGISTRATION_OPEN",true);
+define("REGISTRATION_OPEN",true); //Testing comments and github push with Heroku setup.
 define("REGISTRATION_PASSWORD","membersonly"); // set to false to disable this feature
 define("MEMBER_REGEXP","^[a-z0-9_-]{3,15}$"); // regexp to define valid member name
 
